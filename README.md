@@ -1,5 +1,9 @@
 </p>
 
+<p align="center">
+  <img src="Images/floppy-disk-logo.png" alt="B.O.N software floppy disk logo" width="160">
+</p>
+
 <h1 align="center">B.O.N. SOFTWARE</h1>
 
 <p align="center">
@@ -34,7 +38,7 @@ The software side of **[B-Together](https://github.com/BA-Varlet)**: the tools a
 ## Repo layout
 
 ```
-b-together-software/
+bon-software/
 ├── README.md
 ├── .gitignore
 ├── LICENSE
